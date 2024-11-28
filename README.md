@@ -1,2 +1,3 @@
 # CyFuzz
-Automate AFL++ Binary Fuzzing
+
+System Setup Scripts for AFL++
